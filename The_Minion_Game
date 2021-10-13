@@ -1,0 +1,11 @@
+Hello! I have made a game
+So, it's like, there is a string named "BANANA" 
+and then the users/players have to input a bunch of words or a single word to make a new word from the string and then that word will be checked for how many times it occurs in the string. 
+Say for instance, player 1 inputs "BAN" and "BAN" appears just once in the string so they will be given 1 point and it's a double player game so the same process will be taken out by player 2 or will be applied to player 2.
+
+note:
+#1 ( player one has to input a word or bunch of words starting from a consonant)
+#2 (player 2 to has to input a word or bunch of words starting from a vowel)
+#3 All words or bunch of words should be in capital letters
+
+Thank you!
